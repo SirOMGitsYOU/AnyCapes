@@ -4,7 +4,7 @@
   "version": "${version}",
 
   "name": "AnyCapes",
-  "description": "Retrieves and renders capes from any cape API.",
+  "description": "Retrieves and renders capes from any cape API. Updated to 1.18.1 by TibiNonEst",
   "authors": [
     "Pepper_Bell"
   ],
