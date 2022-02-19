@@ -6,7 +6,8 @@
   "name": "AnyCapes",
   "description": "Retrieves and renders capes from any cape API. Updated to 1.18.1 by TibiNonEst",
   "authors": [
-    "Pepper_Bell"
+    "Pepper_Bell",
+    "TibiNonEst"
   ],
   "contact": {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/anycapes",
